@@ -7,8 +7,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Mystifying7/Leet_Code/tree/master/0001-two-sum) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/Mystifying7/Leet_Code/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Mystifying7/Leet_Code/tree/master/0001-two-sum) |
+## Math
+|  |
+| ------- |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/Mystifying7/Leet_Code/tree/master/3513-number-of-unique-xor-triplets-i) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/Mystifying7/Leet_Code/tree/master/3513-number-of-unique-xor-triplets-i) |
 <!---LeetCode Topics End-->
