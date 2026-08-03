@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Mystifying7/Leet_Code/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0486-predict-the-winner](https://github.com/Mystifying7/Leet_Code/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Mystifying7/Leet_Code/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/Mystifying7/Leet_Code/tree/master/1406-stone-game-iii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Mystifying7/Leet_Code/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Mystifying7/Leet_Code/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Hash Table
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Mystifying7/Leet_Code/tree/master/0013-roman-to-integer) |
 | [0486-predict-the-winner](https://github.com/Mystifying7/Leet_Code/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Mystifying7/Leet_Code/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/Mystifying7/Leet_Code/tree/master/1406-stone-game-iii) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Mystifying7/Leet_Code/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Mystifying7/Leet_Code/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Mystifying7/Leet_Code/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Mystifying7/Leet_Code/tree/master/0022-generate-parentheses) |
 | [0486-predict-the-winner](https://github.com/Mystifying7/Leet_Code/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Mystifying7/Leet_Code/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/Mystifying7/Leet_Code/tree/master/1406-stone-game-iii) |
 ## Greedy
 |  |
 | ------- |
@@ -153,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/Mystifying7/Leet_Code/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Mystifying7/Leet_Code/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/Mystifying7/Leet_Code/tree/master/1406-stone-game-iii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -161,4 +165,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Mystifying7/Leet_Code/tree/master/0023-merge-k-sorted-lists) |
+## Minimax
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/Mystifying7/Leet_Code/tree/master/1406-stone-game-iii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/Mystifying7/Leet_Code/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
