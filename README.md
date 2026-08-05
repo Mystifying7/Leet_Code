@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Mystifying7/Leet_Code/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Mystifying7/Leet_Code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Mystifying7/Leet_Code/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0032-longest-valid-parentheses](https://github.com/Mystifying7/Leet_Code/tree/master/0032-longest-valid-parentheses) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Mystifying7/Leet_Code/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Mystifying7/Leet_Code/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Mystifying7/Leet_Code/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Mystifying7/Leet_Code/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/Mystifying7/Leet_Code/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/Mystifying7/Leet_Code/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Mystifying7/Leet_Code/tree/master/0032-longest-valid-parentheses) |
 | [0486-predict-the-winner](https://github.com/Mystifying7/Leet_Code/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Mystifying7/Leet_Code/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/Mystifying7/Leet_Code/tree/master/1406-stone-game-iii) |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Mystifying7/Leet_Code/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Mystifying7/Leet_Code/tree/master/0032-longest-valid-parentheses) |
 ## Counting
 |  |
 | ------- |
@@ -199,4 +202,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Mystifying7/Leet_Code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/Mystifying7/Leet_Code/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->
