@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Mystifying7/Leet_Code/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Mystifying7/Leet_Code/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Mystifying7/Leet_Code/tree/master/0035-search-insert-position) |
+| [0036-valid-sudoku](https://github.com/Mystifying7/Leet_Code/tree/master/0036-valid-sudoku) |
 | [0486-predict-the-winner](https://github.com/Mystifying7/Leet_Code/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Mystifying7/Leet_Code/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/Mystifying7/Leet_Code/tree/master/1406-stone-game-iii) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Mystifying7/Leet_Code/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Mystifying7/Leet_Code/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Mystifying7/Leet_Code/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0036-valid-sudoku](https://github.com/Mystifying7/Leet_Code/tree/master/0036-valid-sudoku) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Mystifying7/Leet_Code/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Mystifying7/Leet_Code/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3731-find-missing-elements](https://github.com/Mystifying7/Leet_Code/tree/master/3731-find-missing-elements) |
@@ -226,4 +228,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3310-remove-methods-from-project](https://github.com/Mystifying7/Leet_Code/tree/master/3310-remove-methods-from-project) |
+## Matrix
+|  |
+| ------- |
+| [0036-valid-sudoku](https://github.com/Mystifying7/Leet_Code/tree/master/0036-valid-sudoku) |
 <!---LeetCode Topics End-->
