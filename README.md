@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/Mystifying7/Leet_Code/tree/master/1406-stone-game-iii) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Mystifying7/Leet_Code/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Mystifying7/Leet_Code/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Mystifying7/Leet_Code/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Mystifying7/Leet_Code/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Mystifying7/Leet_Code/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Mystifying7/Leet_Code/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Mystifying7/Leet_Code/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Mystifying7/Leet_Code/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Mystifying7/Leet_Code/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Mystifying7/Leet_Code/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Mystifying7/Leet_Code/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Sliding Window
 |  |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Mystifying7/Leet_Code/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Mystifying7/Leet_Code/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Mystifying7/Leet_Code/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Mystifying7/Leet_Code/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Trie
 |  |
 | ------- |
@@ -164,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Mystifying7/Leet_Code/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Mystifying7/Leet_Code/tree/master/0022-generate-parentheses) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Mystifying7/Leet_Code/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Stack
 |  |
 | ------- |
@@ -236,4 +240,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Mystifying7/Leet_Code/tree/master/0036-valid-sudoku) |
+## Number Theory
+|  |
+| ------- |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Mystifying7/Leet_Code/tree/master/3348-smallest-divisible-digit-product-ii) |
 <!---LeetCode Topics End-->
