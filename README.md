@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Mystifying7/Leet_Code/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/Mystifying7/Leet_Code/tree/master/0036-valid-sudoku) |
 | [0040-combination-sum-ii](https://github.com/Mystifying7/Leet_Code/tree/master/0040-combination-sum-ii) |
+| [0041-first-missing-positive](https://github.com/Mystifying7/Leet_Code/tree/master/0041-first-missing-positive) |
 | [0486-predict-the-winner](https://github.com/Mystifying7/Leet_Code/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Mystifying7/Leet_Code/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Mystifying7/Leet_Code/tree/master/1140-stone-game-ii) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Mystifying7/Leet_Code/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Mystifying7/Leet_Code/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0036-valid-sudoku](https://github.com/Mystifying7/Leet_Code/tree/master/0036-valid-sudoku) |
+| [0041-first-missing-positive](https://github.com/Mystifying7/Leet_Code/tree/master/0041-first-missing-positive) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Mystifying7/Leet_Code/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Mystifying7/Leet_Code/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3731-find-missing-elements](https://github.com/Mystifying7/Leet_Code/tree/master/3731-find-missing-elements) |
