@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Mystifying7/Leet_Code/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Mystifying7/Leet_Code/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/Mystifying7/Leet_Code/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/Mystifying7/Leet_Code/tree/master/0047-permutations-ii) |
 | [0486-predict-the-winner](https://github.com/Mystifying7/Leet_Code/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Mystifying7/Leet_Code/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Mystifying7/Leet_Code/tree/master/1140-stone-game-ii) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Mystifying7/Leet_Code/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Mystifying7/Leet_Code/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Mystifying7/Leet_Code/tree/master/0018-4sum) |
+| [0047-permutations-ii](https://github.com/Mystifying7/Leet_Code/tree/master/0047-permutations-ii) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Mystifying7/Leet_Code/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3731-find-missing-elements](https://github.com/Mystifying7/Leet_Code/tree/master/3731-find-missing-elements) |
 ## Backtracking
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Mystifying7/Leet_Code/tree/master/0022-generate-parentheses) |
 | [0040-combination-sum-ii](https://github.com/Mystifying7/Leet_Code/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Mystifying7/Leet_Code/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/Mystifying7/Leet_Code/tree/master/0047-permutations-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Mystifying7/Leet_Code/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Stack
 |  |
