@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/Mystifying7/Leet_Code/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Mystifying7/Leet_Code/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/Mystifying7/Leet_Code/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/Mystifying7/Leet_Code/tree/master/0049-group-anagrams) |
 | [0486-predict-the-winner](https://github.com/Mystifying7/Leet_Code/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Mystifying7/Leet_Code/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Mystifying7/Leet_Code/tree/master/1140-stone-game-ii) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Mystifying7/Leet_Code/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0036-valid-sudoku](https://github.com/Mystifying7/Leet_Code/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/Mystifying7/Leet_Code/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/Mystifying7/Leet_Code/tree/master/0049-group-anagrams) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Mystifying7/Leet_Code/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Mystifying7/Leet_Code/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Mystifying7/Leet_Code/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/Mystifying7/Leet_Code/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/Mystifying7/Leet_Code/tree/master/0038-count-and-say) |
 | [0044-wildcard-matching](https://github.com/Mystifying7/Leet_Code/tree/master/0044-wildcard-matching) |
+| [0049-group-anagrams](https://github.com/Mystifying7/Leet_Code/tree/master/0049-group-anagrams) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Mystifying7/Leet_Code/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Mystifying7/Leet_Code/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Mystifying7/Leet_Code/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -226,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Mystifying7/Leet_Code/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Mystifying7/Leet_Code/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/Mystifying7/Leet_Code/tree/master/0047-permutations-ii) |
+| [0049-group-anagrams](https://github.com/Mystifying7/Leet_Code/tree/master/0049-group-anagrams) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Mystifying7/Leet_Code/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Mystifying7/Leet_Code/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3731-find-missing-elements](https://github.com/Mystifying7/Leet_Code/tree/master/3731-find-missing-elements) |
