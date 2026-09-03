@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Mystifying7/Leet_Code/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Mystifying7/Leet_Code/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Mystifying7/Leet_Code/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/Mystifying7/Leet_Code/tree/master/0050-powx-n) |
 | [0486-predict-the-winner](https://github.com/Mystifying7/Leet_Code/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Mystifying7/Leet_Code/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Mystifying7/Leet_Code/tree/master/1140-stone-game-ii) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/Mystifying7/Leet_Code/tree/master/0010-regular-expression-matching) |
 | [0024-swap-nodes-in-pairs](https://github.com/Mystifying7/Leet_Code/tree/master/0024-swap-nodes-in-pairs) |
 | [0044-wildcard-matching](https://github.com/Mystifying7/Leet_Code/tree/master/0044-wildcard-matching) |
+| [0050-powx-n](https://github.com/Mystifying7/Leet_Code/tree/master/0050-powx-n) |
 | [0486-predict-the-winner](https://github.com/Mystifying7/Leet_Code/tree/master/0486-predict-the-winner) |
 ## String
 |  |
