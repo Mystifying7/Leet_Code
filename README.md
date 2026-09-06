@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/Mystifying7/Leet_Code/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/Mystifying7/Leet_Code/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Mystifying7/Leet_Code/tree/master/0049-group-anagrams) |
+| [0051-n-queens](https://github.com/Mystifying7/Leet_Code/tree/master/0051-n-queens) |
 | [0486-predict-the-winner](https://github.com/Mystifying7/Leet_Code/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Mystifying7/Leet_Code/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Mystifying7/Leet_Code/tree/master/1140-stone-game-ii) |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/Mystifying7/Leet_Code/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Mystifying7/Leet_Code/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Mystifying7/Leet_Code/tree/master/0047-permutations-ii) |
+| [0051-n-queens](https://github.com/Mystifying7/Leet_Code/tree/master/0051-n-queens) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Mystifying7/Leet_Code/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Stack
 |  |
@@ -381,4 +383,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Mystifying7/Leet_Code/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/Mystifying7/Leet_Code/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
