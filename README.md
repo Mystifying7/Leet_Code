@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Mystifying7/Leet_Code/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/Mystifying7/Leet_Code/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/Mystifying7/Leet_Code/tree/master/0049-group-anagrams) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Mystifying7/Leet_Code/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Mystifying7/Leet_Code/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Mystifying7/Leet_Code/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Mystifying7/Leet_Code/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Mystifying7/Leet_Code/tree/master/0049-group-anagrams) |
 | [0115-distinct-subsequences](https://github.com/Mystifying7/Leet_Code/tree/master/0115-distinct-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/Mystifying7/Leet_Code/tree/master/0940-distinct-subsequences-ii) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Mystifying7/Leet_Code/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Mystifying7/Leet_Code/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Mystifying7/Leet_Code/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Mystifying7/Leet_Code/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -238,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Mystifying7/Leet_Code/tree/master/0011-container-with-most-water) |
 | [0044-wildcard-matching](https://github.com/Mystifying7/Leet_Code/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/Mystifying7/Leet_Code/tree/master/0045-jump-game-ii) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Mystifying7/Leet_Code/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2029-stone-game-ix](https://github.com/Mystifying7/Leet_Code/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Mystifying7/Leet_Code/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Mystifying7/Leet_Code/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -258,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Mystifying7/Leet_Code/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/Mystifying7/Leet_Code/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/Mystifying7/Leet_Code/tree/master/0049-group-anagrams) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Mystifying7/Leet_Code/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Mystifying7/Leet_Code/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Mystifying7/Leet_Code/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Mystifying7/Leet_Code/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
