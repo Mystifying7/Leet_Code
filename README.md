@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/Mystifying7/Leet_Code/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Mystifying7/Leet_Code/tree/master/1406-stone-game-iii) |
 | [1563-stone-game-v](https://github.com/Mystifying7/Leet_Code/tree/master/1563-stone-game-v) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Mystifying7/Leet_Code/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1872-stone-game-viii](https://github.com/Mystifying7/Leet_Code/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/Mystifying7/Leet_Code/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Mystifying7/Leet_Code/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/Mystifying7/Leet_Code/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/Mystifying7/Leet_Code/tree/master/0049-group-anagrams) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Mystifying7/Leet_Code/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Mystifying7/Leet_Code/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Mystifying7/Leet_Code/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Mystifying7/Leet_Code/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Mystifying7/Leet_Code/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Mystifying7/Leet_Code/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Mystifying7/Leet_Code/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Mystifying7/Leet_Code/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Mystifying7/Leet_Code/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Mystifying7/Leet_Code/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Mystifying7/Leet_Code/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -194,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Mystifying7/Leet_Code/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Mystifying7/Leet_Code/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Mystifying7/Leet_Code/tree/master/0035-search-insert-position) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Mystifying7/Leet_Code/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Mystifying7/Leet_Code/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Mystifying7/Leet_Code/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Divide and Conquer
@@ -388,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1140-stone-game-ii](https://github.com/Mystifying7/Leet_Code/tree/master/1140-stone-game-ii) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Mystifying7/Leet_Code/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Mystifying7/Leet_Code/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1872-stone-game-viii](https://github.com/Mystifying7/Leet_Code/tree/master/1872-stone-game-viii) |
 | [3903-smallest-stable-index-i](https://github.com/Mystifying7/Leet_Code/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Mystifying7/Leet_Code/tree/master/3904-smallest-stable-index-ii) |
