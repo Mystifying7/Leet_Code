@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Mystifying7/Leet_Code/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/Mystifying7/Leet_Code/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/Mystifying7/Leet_Code/tree/master/0049-group-anagrams) |
+| [1096-brace-expansion-ii](https://github.com/Mystifying7/Leet_Code/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Mystifying7/Leet_Code/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Mystifying7/Leet_Code/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Mystifying7/Leet_Code/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Mystifying7/Leet_Code/tree/master/0049-group-anagrams) |
 | [0115-distinct-subsequences](https://github.com/Mystifying7/Leet_Code/tree/master/0115-distinct-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/Mystifying7/Leet_Code/tree/master/0940-distinct-subsequences-ii) |
+| [1096-brace-expansion-ii](https://github.com/Mystifying7/Leet_Code/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Mystifying7/Leet_Code/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Mystifying7/Leet_Code/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Mystifying7/Leet_Code/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -274,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Mystifying7/Leet_Code/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/Mystifying7/Leet_Code/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/Mystifying7/Leet_Code/tree/master/0049-group-anagrams) |
+| [1096-brace-expansion-ii](https://github.com/Mystifying7/Leet_Code/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Mystifying7/Leet_Code/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Mystifying7/Leet_Code/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Mystifying7/Leet_Code/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -288,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/Mystifying7/Leet_Code/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Mystifying7/Leet_Code/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/Mystifying7/Leet_Code/tree/master/0051-n-queens) |
+| [1096-brace-expansion-ii](https://github.com/Mystifying7/Leet_Code/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Mystifying7/Leet_Code/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Stack
 |  |
@@ -295,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Mystifying7/Leet_Code/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Mystifying7/Leet_Code/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Mystifying7/Leet_Code/tree/master/0042-trapping-rain-water) |
+| [1096-brace-expansion-ii](https://github.com/Mystifying7/Leet_Code/tree/master/1096-brace-expansion-ii) |
 ## Counting
 |  |
 | ------- |
@@ -371,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [1096-brace-expansion-ii](https://github.com/Mystifying7/Leet_Code/tree/master/1096-brace-expansion-ii) |
 | [3310-remove-methods-from-project](https://github.com/Mystifying7/Leet_Code/tree/master/3310-remove-methods-from-project) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Mystifying7/Leet_Code/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Graph Theory
