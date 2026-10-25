@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0835-image-overlap](https://github.com/Mystifying7/Leet_Code/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/Mystifying7/Leet_Code/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Mystifying7/Leet_Code/tree/master/1140-stone-game-ii) |
+| [1254-number-of-closed-islands](https://github.com/Mystifying7/Leet_Code/tree/master/1254-number-of-closed-islands) |
 | [1406-stone-game-iii](https://github.com/Mystifying7/Leet_Code/tree/master/1406-stone-game-iii) |
 | [1563-stone-game-v](https://github.com/Mystifying7/Leet_Code/tree/master/1563-stone-game-v) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Mystifying7/Leet_Code/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -404,12 +405,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/Mystifying7/Leet_Code/tree/master/1254-number-of-closed-islands) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Mystifying7/Leet_Code/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3310-remove-methods-from-project](https://github.com/Mystifying7/Leet_Code/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [1096-brace-expansion-ii](https://github.com/Mystifying7/Leet_Code/tree/master/1096-brace-expansion-ii) |
+| [1254-number-of-closed-islands](https://github.com/Mystifying7/Leet_Code/tree/master/1254-number-of-closed-islands) |
 | [3310-remove-methods-from-project](https://github.com/Mystifying7/Leet_Code/tree/master/3310-remove-methods-from-project) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Mystifying7/Leet_Code/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Graph Theory
@@ -422,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Mystifying7/Leet_Code/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/Mystifying7/Leet_Code/tree/master/0048-rotate-image) |
 | [0835-image-overlap](https://github.com/Mystifying7/Leet_Code/tree/master/0835-image-overlap) |
+| [1254-number-of-closed-islands](https://github.com/Mystifying7/Leet_Code/tree/master/1254-number-of-closed-islands) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Mystifying7/Leet_Code/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Number Theory
 |  |
@@ -462,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/Mystifying7/Leet_Code/tree/master/1254-number-of-closed-islands) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Mystifying7/Leet_Code/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Algorithm X
 |  |
