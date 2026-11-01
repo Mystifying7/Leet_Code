@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Mystifying7/Leet_Code/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Mystifying7/Leet_Code/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/Mystifying7/Leet_Code/tree/master/0051-n-queens) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Mystifying7/Leet_Code/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0486-predict-the-winner](https://github.com/Mystifying7/Leet_Code/tree/master/0486-predict-the-winner) |
 | [0835-image-overlap](https://github.com/Mystifying7/Leet_Code/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/Mystifying7/Leet_Code/tree/master/0877-stone-game) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Mystifying7/Leet_Code/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Mystifying7/Leet_Code/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Mystifying7/Leet_Code/tree/master/0050-powx-n) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Mystifying7/Leet_Code/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0486-predict-the-winner](https://github.com/Mystifying7/Leet_Code/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Mystifying7/Leet_Code/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Mystifying7/Leet_Code/tree/master/1140-stone-game-ii) |
